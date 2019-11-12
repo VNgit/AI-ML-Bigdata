@@ -1,5 +1,7 @@
-
 # AI-ML-Bigdata
+
+## Example -1:
+Spark with machine learning
 Spark and ML combination example.
 
 1. Doing the raw data cleanup using Spakr in Cloudera shred cluster and creating the clean data.
